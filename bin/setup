@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+IFS=$'\n\t'
+set -vx
+
+echo "Installing project dependencies..."; sleep 1
+
+bundle install

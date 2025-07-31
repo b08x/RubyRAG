@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require_relative "../lib/RubyRAG"
+
+require "pry"
+Pry.start
