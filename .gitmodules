@@ -1,0 +1,3 @@
+[submodule "ui/memex-rag-dashboard"]
+	path = ui/memex-rag-dashboard
+	url = https://huggingface.co/spaces/b08x/memex-rag-dashboard
